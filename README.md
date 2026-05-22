@@ -25,7 +25,7 @@ Open your browser at `http://localhost:5173` (or the port shown in the terminal)
 > **🔄 If you see a "Failed to Fetch" error on the video player, or if the video screen appears black** — do a hard refresh: **Ctrl + Shift + R**. This clears the browser cache and reloads all assets cleanly, which usually fixes both issues instantly.
 
 > **⏳ Please be patient on first load** — the app may take a few seconds to initialize. It is fetching clip data from the API on startup (or loading the mock fallback if the API is unreachable). The timeline and player will appear once the data is ready.
-
+ choose the date 20th may 2026 as i have uploaded clips for that date only.
 ---
 
 ##  Important: Backend / API Usage
